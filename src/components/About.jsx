@@ -23,7 +23,7 @@ function About() {
                         Alireza Hamami
                     </a>
                 </p>
-                <Link className='btn btn-ghost btn-md mt-8' to='/'>
+                <Link className='btn btn-ghost btn-md mt-8' to='/github'>
                     <FaHome className='mr-2'/>
                     Back To Home
                 </Link>
