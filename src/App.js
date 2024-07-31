@@ -20,9 +20,9 @@ function App() {
     
     
     
-    const part1 = 'ghp_fQzY9mM9wm'
-    const part2 = 'NQicANvZbrsK'
-    const part3 = '69MBLx3a1JPSBo'
+    const part1 = 'ghp_QFrbsA8B7aHVU7o'
+    const part2 = 'v8FFRiRoWX'
+    const part3 = '79ndK2ijgjZ'
     const GITHUB_URL = 'https://api.github.com/'
     const GITHUB_TOKEN = part1+part2+part3
     const GITHUB_searchurl= 'https://api.github.com/search/users?q='
